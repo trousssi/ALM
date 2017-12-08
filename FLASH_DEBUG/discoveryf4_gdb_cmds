@@ -1,0 +1,10 @@
+# This file was taken from
+# https://github.com/cjheath/stm32f3-discovery-basic-template/blob/master/extra
+# 
+# Log output redirected to /tmp
+#
+# 
+target remote | openocd -f FLASH_DEBUG/stm32f4discovery.cfg -c "gdb_port pipe; log_output /tmp/discoveryf4_openocd.log"
+monitor reset halt
+load
+

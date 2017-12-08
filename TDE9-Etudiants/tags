@@ -1,0 +1,163 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AHB2_CLOCKS	discoveryf4_wiring.h	85;"	d
+APB1_CLOCKS	discoveryf4_wiring.h	76;"	d
+APB2_CLOCKS	discoveryf4_wiring.h	81;"	d
+BINARY	Makefile	/^BINARY = firmware$/;"	m
+BLUE_3S_LED	discoveryf4_wiring.h	120;"	d
+BP_USER	discoveryf4_wiring.h	144;"	d
+BP_USER_BIT	discoveryf4_wiring.h	141;"	d
+BP_USER_MASK	discoveryf4_wiring.h	142;"	d
+CC	Makefile	/^CC = arm-none-eabi-gcc $/;"	m
+CS_SPI1	discoveryf4_wiring.h	164;"	d
+DEVICE	Makefile	/^DEVICE=STM32F407VG$/;"	m
+DISCOVERYF4_WIRING_H	discoveryf4_wiring.h	22;"	d
+F4LEDS	discoveryf4_wiring.h	122;"	d
+GPIO_AF_DUMMY	discoveryf4_wiring.h	41;"	d
+GPIO_AF_EVENT	discoveryf4_wiring.h	42;"	d
+GPIO_CLOCKS	discoveryf4_wiring.h	69;"	d
+GREEN_0W_LED	discoveryf4_wiring.h	113;"	d
+GREEN_0W_LED_TIM1CH2	discoveryf4_wiring.h	116;"	d
+LIS3DSH	lis3dsh.h	22;"	d
+LIS3_CTRL3_DR_EN	lis3dsh.h	/^   LIS3_CTRL3_DR_EN		= (1<<7),   \/\/ Data ready connection to INT1$/;"	e	enum:__anon4
+LIS3_CTRL3_IEA	lis3dsh.h	/^   LIS3_CTRL3_IEA               = (1<<6),   \/\/ Interrupt polarity (default 0  active low)$/;"	e	enum:__anon4
+LIS3_CTRL3_IEL	lis3dsh.h	/^   LIS3_CTRL3_IEL		= (1<<5),   \/\/ Interrupt latching (default 0 latch, 1 for pule)$/;"	e	enum:__anon4
+LIS3_CTRL3_INIT	lis3dsh.h	65;"	d
+LIS3_CTRL3_INT1EN	lis3dsh.h	/^   LIS3_CTRL3_INT1EN		= (1<<3),   \/\/ Enable int1 :  (default 0 : disabled) $/;"	e	enum:__anon4
+LIS3_CTRL3_INT2EN	lis3dsh.h	/^   LIS3_CTRL3_INT2EN		= (1<<4),   \/\/ Enable int2 :  (default 0 : disabled)   boot + sm2 : not used$/;"	e	enum:__anon4
+LIS3_CTRL3_STRT	lis3dsh.h	/^   LIS3_CTRL3_STRT		= (1<<0)    \/\/ Soft reset (default 0 : inactive)$/;"	e	enum:__anon4
+LIS3_CTRL3_VFILT	lis3dsh.h	/^   LIS3_CTRL3_VFILT		= (1<<2),   \/\/ vector filter (dfault 0 : disbaled)$/;"	e	enum:__anon4
+LIS3_CTRL4_BDU	lis3dsh.h	/^   LIS3_CTRL4_BDU		= ( 1 << 3),    \/\/ block data (SB and LSB synchonized)$/;"	e	enum:__anon5
+LIS3_CTRL4_FSCALE_16G	lis3dsh.h	/^   LIS3_CTRL4_FSCALE_16G	= ( 4 << 3),$/;"	e	enum:__anon6
+LIS3_CTRL4_FSCALE_2G	lis3dsh.h	/^   LIS3_CTRL4_FSCALE_2G		= ( 0 << 3),$/;"	e	enum:__anon6
+LIS3_CTRL4_FSCALE_4G	lis3dsh.h	/^   LIS3_CTRL4_FSCALE_4G		= ( 1 << 3),$/;"	e	enum:__anon6
+LIS3_CTRL4_FSCALE_6G	lis3dsh.h	/^   LIS3_CTRL4_FSCALE_6G		= ( 2 << 3),$/;"	e	enum:__anon6
+LIS3_CTRL4_FSCALE_8G	lis3dsh.h	/^   LIS3_CTRL4_FSCALE_8G		= ( 3 << 3),$/;"	e	enum:__anon6
+LIS3_CTRL4_FSCALE_MASK	lis3dsh.h	/^   LIS3_CTRL4_FSCALE_MASK	= ( 3 << 3),$/;"	e	enum:__anon6
+LIS3_CTRL4_INIT	lis3dsh.h	92;"	d
+LIS3_CTRL4_ODR_100HZ	lis3dsh.h	/^   LIS3_CTRL4_ODR_100HZ		= ( 6 << 4),$/;"	e	enum:__anon5
+LIS3_CTRL4_ODR_12HZ	lis3dsh.h	/^   LIS3_CTRL4_ODR_12HZ		= ( 3 << 4),$/;"	e	enum:__anon5
+LIS3_CTRL4_ODR_1600HZ	lis3dsh.h	/^   LIS3_CTRL4_ODR_1600HZ	= ( 9 << 4),$/;"	e	enum:__anon5
+LIS3_CTRL4_ODR_25HZ	lis3dsh.h	/^   LIS3_CTRL4_ODR_25HZ		= ( 4 << 4),$/;"	e	enum:__anon5
+LIS3_CTRL4_ODR_3HZ	lis3dsh.h	/^   LIS3_CTRL4_ODR_3HZ		= ( 1 << 4),$/;"	e	enum:__anon5
+LIS3_CTRL4_ODR_400HZ	lis3dsh.h	/^   LIS3_CTRL4_ODR_400HZ		= ( 7 << 4),$/;"	e	enum:__anon5
+LIS3_CTRL4_ODR_50HZ	lis3dsh.h	/^   LIS3_CTRL4_ODR_50HZ		= ( 5 << 4),$/;"	e	enum:__anon5
+LIS3_CTRL4_ODR_6HZ	lis3dsh.h	/^   LIS3_CTRL4_ODR_6HZ		= ( 2 << 4),$/;"	e	enum:__anon5
+LIS3_CTRL4_ODR_800HZ	lis3dsh.h	/^   LIS3_CTRL4_ODR_800HZ		= ( 8 << 4),$/;"	e	enum:__anon5
+LIS3_CTRL4_ODR_DOWN	lis3dsh.h	/^   LIS3_CTRL4_ODR_DOWN		= ( 0 << 4),$/;"	e	enum:__anon5
+LIS3_CTRL4_ODR_MASK	lis3dsh.h	/^   LIS3_CTRL4_ODR_MASK		= (15 << 4),$/;"	e	enum:__anon5
+LIS3_CTRL4_XEN	lis3dsh.h	/^   LIS3_CTRL4_XEN		= ( 1 << 0)     \/\/ X axis enable$/;"	e	enum:__anon5
+LIS3_CTRL4_YEN	lis3dsh.h	/^   LIS3_CTRL4_YEN		= ( 1 << 1),    \/\/ Y axis enable$/;"	e	enum:__anon5
+LIS3_CTRL4_ZEN	lis3dsh.h	/^   LIS3_CTRL4_ZEN		= ( 1 << 2),    \/\/ Z axis enable$/;"	e	enum:__anon5
+LIS3_CTRL5_BW_200HZ	lis3dsh.h	/^   LIS3_CTRL5_BW_200HZ		= ( 1 << 6),$/;"	e	enum:__anon6
+LIS3_CTRL5_BW_400HZ	lis3dsh.h	/^   LIS3_CTRL5_BW_400HZ		= ( 2 << 6),$/;"	e	enum:__anon6
+LIS3_CTRL5_BW_50HZ	lis3dsh.h	/^   LIS3_CTRL5_BW_50HZ		= ( 3 << 6),$/;"	e	enum:__anon6
+LIS3_CTRL5_BW_800HZ	lis3dsh.h	/^   LIS3_CTRL5_BW_800HZ		= ( 0 << 6),$/;"	e	enum:__anon6
+LIS3_CTRL5_BW_MASK	lis3dsh.h	/^   LIS3_CTRL5_BW_MASK		= ( 3 << 6),$/;"	e	enum:__anon6
+LIS3_CTRL5_INIT	lis3dsh.h	124;"	d
+LIS3_CTRL5_SIM	lis3dsh.h	/^   LIS3_CTRL5_SIM   	  	= ( 1 << 0)     \/\/ SPI wire (default 0 : 4 wires, 1 : 3 wires)$/;"	e	enum:__anon6
+LIS3_CTRL5_ST_MASK	lis3dsh.h	/^   LIS3_CTRL5_ST_MASK		= ( 3 << 2),   $/;"	e	enum:__anon6
+LIS3_CTRL5_ST_MINUS	lis3dsh.h	/^   LIS3_CTRL5_ST_MINUS		= ( 2 << 2),   $/;"	e	enum:__anon6
+LIS3_CTRL5_ST_NORMAL	lis3dsh.h	/^   LIS3_CTRL5_ST_NORMAL		= ( 0 << 2),    $/;"	e	enum:__anon6
+LIS3_CTRL5_ST_PLUS	lis3dsh.h	/^   LIS3_CTRL5_ST_PLUS		= ( 1 << 2),   $/;"	e	enum:__anon6
+LIS3_CTRL6_ADDINC	lis3dsh.h	/^   LIS3_CTRL6_ADDINC  		= ( 1 << 4)     \/\/ auto increment reg address if set$/;"	e	enum:__anon7
+LIS3_CTRL6_INIT	lis3dsh.h	136;"	d
+LIS3_CTRL6_REBOOT	lis3dsh.h	/^   LIS3_CTRL6_REBOOT  		= ( 1 << 7),	\/\/ Set by software, cleared by hardware on boot done$/;"	e	enum:__anon7
+LIS3_FIFO_CTRL_BYPASS	lis3dsh.h	/^   LIS3_FIFO_CTRL_BYPASS	= ( 0<<4),   \/\/ Bypass FIFO$/;"	e	enum:__anon10
+LIS3_FIFO_CTRL_INIT	lis3dsh.h	175;"	d
+LIS3_FIFO_CTRL_MASK	lis3dsh.h	/^   LIS3_FIFO_CTRL_MASK  	= (15<<4),   $/;"	e	enum:__anon10
+LIS3_FIFO_CTRL_WTMP	lis3dsh.h	/^   LIS3_FIFO_CTRL_WTMP  	= (15<<0),   \/\/ watermark mask$/;"	e	enum:__anon10
+LIS3_STATUS_XA	lis3dsh.h	/^   LIS3_STATUS_XA   		= (1<<0),   $/;"	e	enum:__anon8
+LIS3_STATUS_XOR	lis3dsh.h	/^   LIS3_STATUS_XOR   		= (1<<4),   $/;"	e	enum:__anon8
+LIS3_STATUS_YA	lis3dsh.h	/^   LIS3_STATUS_YA		= (1<<1),   $/;"	e	enum:__anon8
+LIS3_STATUS_YOR	lis3dsh.h	/^   LIS3_STATUS_YOR		= (1<<5),   $/;"	e	enum:__anon8
+LIS3_STATUS_ZA	lis3dsh.h	/^   LIS3_STATUS_ZA            	= (1<<2),   $/;"	e	enum:__anon8
+LIS3_STATUS_ZOR	lis3dsh.h	/^   LIS3_STATUS_ZOR              = (1<<6),   $/;"	e	enum:__anon8
+LIS3_STATUS_ZYXA	lis3dsh.h	/^   LIS3_STATUS_ZYXA		= (1<<3),   $/;"	e	enum:__anon8
+LIS3_STATUS_ZYXOR	lis3dsh.h	/^   LIS3_STATUS_ZYXOR		= (1<<7),   $/;"	e	enum:__anon8
+LIS3_STAT_DOR	lis3dsh.h	/^   LIS3_STAT_DOR		= (1<<1),   \/\/ Data overrun (1 = overrun)$/;"	e	enum:__anon9
+LIS3_STAT_DRDY	lis3dsh.h	/^   LIS3_STAT_DRDY   		= (1<<0),   \/\/ Data ready (1 = ready)$/;"	e	enum:__anon9
+MASK_F4LEDS	discoveryf4_wiring.h	125;"	d
+MEMS_CTRL_REG3	lis3dsh.h	/^   MEMS_CTRL_REG3 		= 0x23,     \/\/ Ctrl interrupt generation$/;"	e	enum:__anon3
+MEMS_CTRL_REG4	lis3dsh.h	/^   MEMS_CTRL_REG4 		= 0x20,     \/\/ Ctrl frequency and axis enable$/;"	e	enum:__anon3
+MEMS_CTRL_REG5	lis3dsh.h	/^   MEMS_CTRL_REG5 		= 0x24,     \/\/ Aliasing filter + g sacle$/;"	e	enum:__anon3
+MEMS_CTRL_REG6	lis3dsh.h	/^   MEMS_CTRL_REG6 		= 0x25,     \/\/ Fifo and autoincrement register address$/;"	e	enum:__anon3
+MEMS_FIFO_CTRL	lis3dsh.h	/^   MEMS_FIFO_CTRL		= 0x2E	    \/\/ FIFO control (to disable FIFO)$/;"	e	enum:__anon3
+MEMS_OUT_T	lis3dsh.h	/^   MEMS_OUT_T		= 0x00,    \/\/ Temperture 25 + out_t   C$/;"	e	enum:__anon3
+MEMS_OUT_XH	lis3dsh.h	/^   MEMS_OUT_XH               = 0x29,     \/\/ X data, MSB$/;"	e	enum:__anon3
+MEMS_OUT_XL	lis3dsh.h	/^   MEMS_OUT_XL               = 0x28,     \/\/ X data, LSB$/;"	e	enum:__anon3
+MEMS_OUT_YH	lis3dsh.h	/^   MEMS_OUT_YH               = 0x2B,     \/\/ Y data, MSB$/;"	e	enum:__anon3
+MEMS_OUT_YL	lis3dsh.h	/^   MEMS_OUT_YL               = 0x2A,     \/\/ Y data, LSB$/;"	e	enum:__anon3
+MEMS_OUT_ZH	lis3dsh.h	/^   MEMS_OUT_ZH               = 0x2D,     \/\/ Z data, MSB$/;"	e	enum:__anon3
+MEMS_OUT_ZL	lis3dsh.h	/^   MEMS_OUT_ZL               = 0x2C,     \/\/ Z data, LSB$/;"	e	enum:__anon3
+MEMS_STAT	lis3dsh.h	/^   MEMS_STAT			= 0x18,     \/\/ Interrupt status$/;"	e	enum:__anon3
+MEMS_STATUS	lis3dsh.h	/^   MEMS_STATUS		= 0x27,     \/\/ Synchro bits$/;"	e	enum:__anon3
+OPENCM3_DIR	Makefile	/^OPENCM3_DIR     = ..\/libopencm3$/;"	m
+OPENOCD_BOARD_DIR	Makefile	/^OPENOCD_BOARD_DIR=\/usr\/share\/openocd\/scripts\/board\/$/;"	m
+OPENOCD_PROC_FILE	Makefile	/^OPENOCD_PROC_FILE=FLASH_DEBUG\/stm32f4-openocd.cfg$/;"	m
+ORANGE_1N_LED	discoveryf4_wiring.h	118;"	d
+P1_DRIVE	cold_startup.h	/^typedef enum {P2_DRIVE=1, P1_DRIVE=0} drive_t;$/;"	e	enum:__anon2
+P2_DRIVE	cold_startup.h	/^typedef enum {P2_DRIVE=1, P1_DRIVE=0} drive_t;$/;"	e	enum:__anon2
+PE_SPIINT	discoveryf4_wiring.h	167;"	d
+RED_2E_LED	discoveryf4_wiring.h	119;"	d
+SHIFT_F4LEDS	discoveryf4_wiring.h	126;"	d
+SPI1_MEMS	discoveryf4_wiring.h	161;"	d
+SPI_MEMS	spi_mems.h	21;"	d
+_COLDSTART_H	cold_startup.h	21;"	d
+afnum	discoveryf4_wiring.h	/^  uint8_t afnum;     $/;"	m	struct:__anon1
+audio_CLK	discoveryf4_wiring.h	187;"	d
+audio_IN	discoveryf4_wiring.h	183;"	d
+coldstart	cold_startup.c	/^void coldstart() {$/;"	f
+configure_BP_USER	discoveryf4_wiring.h	/^static inline void configure_BP_USER() {$/;"	f
+configure_CS_SPI1	discoveryf4_wiring.h	/^static inline void configure_CS_SPI1() { configure_pin(CS_SPI1); }$/;"	f
+configure_PE_SPIINT	discoveryf4_wiring.h	/^static inline void configure_PE_SPIINT() { configure_pin(PE_SPIINT); }$/;"	f
+configure_SPI1_MEMS	discoveryf4_wiring.h	/^static inline void configure_SPI1_MEMS() { configure_pin(SPI1_MEMS); }$/;"	f
+configure_audio_CLK	discoveryf4_wiring.h	/^static inline void configure_audio_CLK() { configure_pin(audio_CLK);}$/;"	f
+configure_audio_IN	discoveryf4_wiring.h	/^static inline void configure_audio_IN() { configure_pin(audio_IN);}$/;"	f
+configure_f4_leds	discoveryf4_wiring.h	/^configure_f4_leds () {$/;"	f
+configure_pin	discoveryf4_wiring.h	/^configure_pin(portpin_t p) { $/;"	f
+configure_spi_mems	discoveryf4_wiring.h	/^static inline void configure_spi_mems () {$/;"	f
+drive_t	cold_startup.h	/^typedef enum {P2_DRIVE=1, P1_DRIVE=0} drive_t;$/;"	t	typeref:enum:__anon2
+exti0_isr	spi_mems.c	/^void exti0_isr () {$/;"	f
+exti0_setup	firmware.c	/^static void exti0_setup () {$/;"	f	file:
+init_spi1	spi_mems.c	/^void init_spi1 () {$/;"	f
+lis_ctrl3_t	lis3dsh.h	/^} lis_ctrl3_t;$/;"	t	typeref:enum:__anon4
+lis_ctrl4_t	lis3dsh.h	/^} lis_ctrl4_t;$/;"	t	typeref:enum:__anon5
+lis_ctrl5_t	lis3dsh.h	/^} lis_ctrl5_t;$/;"	t	typeref:enum:__anon6
+lis_ctrl6_t	lis3dsh.h	/^} lis_ctrl6_t;$/;"	t	typeref:enum:__anon7
+lis_fifo_ctrl_t	lis3dsh.h	/^} lis_fifo_ctrl_t;$/;"	t	typeref:enum:__anon10
+lis_reg_t	lis3dsh.h	/^} lis_reg_t;$/;"	t	typeref:enum:__anon3
+lis_stat_t	lis3dsh.h	/^} lis_stat_t;$/;"	t	typeref:enum:__anon9
+lis_status_t	lis3dsh.h	/^} lis_status_t;$/;"	t	typeref:enum:__anon8
+main	firmware.c	/^int main (void) {$/;"	f
+mems_display_sample	spi_mems.c	/^void mems_display_sample () {$/;"	f
+mems_init	spi_mems.c	/^void mems_init () {$/;"	f
+mems_read_sample	spi_mems.c	/^void mems_read_sample () {$/;"	f
+mems_wait_sample	spi_mems.c	/^void mems_wait_sample () {$/;"	f
+mode	discoveryf4_wiring.h	/^  uint8_t mode;$/;"	m	struct:__anon1
+pin	discoveryf4_wiring.h	/^  uint16_t pin;$/;"	m	struct:__anon1
+plus_plus_handler	firmware.c	/^void plus_plus_handler() {$/;"	f
+port	discoveryf4_wiring.h	/^  uint32_t port;$/;"	m	struct:__anon1
+portpin_t	discoveryf4_wiring.h	/^} portpin_t;$/;"	t	typeref:struct:__anon1
+pullup	discoveryf4_wiring.h	/^  uint8_t pullup;$/;"	m	struct:__anon1
+read_BP_USER	discoveryf4_wiring.h	/^static inline int16_t read_BP_USER() {$/;"	f
+setup_clocks	discoveryf4_wiring.h	/^static inline void setup_clocks () {$/;"	f
+spi_read_command	spi_mems.c	/^uint8_t spi_read_command (uint8_t reg) {$/;"	f
+spi_send_command	spi_mems.c	/^uint8_t spi_send_command (uint8_t reg, uint8_t data) {$/;"	f
+spi_write_command	spi_mems.c	/^void spi_write_command (uint8_t reg,  uint8_t data) {$/;"	f
+sys_tick_handler	firmware.c	/^void sys_tick_handler () {$/;"	f
+syscount	firmware.c	/^uint16_t syscount = 0;$/;"	v
+sysms	firmware.c	/^uint32_t sysms = 0;$/;"	v
+systick_setup	firmware.c	/^static void systick_setup(void)$/;"	f	file:
+timer_start	cold_startup.h	/^static inline void timer_start() { timer_enable_counter  (TIM3); } \/\/ CR1 Counter Enable bit = 1 $/;"	f
+timer_stop	cold_startup.h	/^static inline void timer_stop()  { timer_disable_counter (TIM3); } \/\/ CR1 Counter Enable bit = 0 $/;"	f
+val	firmware.c	/^uint8_t val = 0x0;$/;"	v
+write_f4_leds	discoveryf4_wiring.h	/^write_f4_leds (uint8_t value) {$/;"	f
+write_pin	discoveryf4_wiring.h	/^write_pin(portpin_t p, bool value) {$/;"	f
+write_pins	discoveryf4_wiring.h	/^write_pins(portpin_t p, uint16_t value) {$/;"	f
+x	spi_mems.c	/^int8_t x=0;$/;"	v
+y	spi_mems.c	/^int8_t y=0;$/;"	v

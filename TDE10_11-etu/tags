@@ -1,0 +1,145 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AHB2_CLOCKS	discoveryf4_wiring.h	87;"	d
+APB1_CLOCKS	discoveryf4_wiring.h	76;"	d
+APB2_CLOCKS	discoveryf4_wiring.h	83;"	d
+AUDIO_I2C	discoveryf4_wiring.h	164;"	d
+AUDIO_I2S_IOA	discoveryf4_wiring.h	167;"	d
+AUDIO_I2S_IOC	discoveryf4_wiring.h	166;"	d
+AUDIO_RESET	discoveryf4_wiring.h	162;"	d
+BINARY	Makefile	/^BINARY = firmware$/;"	m
+BLUE_3S_LED	discoveryf4_wiring.h	122;"	d
+BP_USER	discoveryf4_wiring.h	146;"	d
+BP_USER_BIT	discoveryf4_wiring.h	143;"	d
+BP_USER_MASK	discoveryf4_wiring.h	144;"	d
+CC	Makefile	/^CC = arm-none-eabi-gcc $/;"	m
+CODEC_MAP_ANALOG_SET	i2c_audio.h	16;"	d
+CODEC_MAP_BATT_COMP	i2c_audio.h	40;"	d
+CODEC_MAP_BEEP_FREQ_ONTIME	i2c_audio.h	25;"	d
+CODEC_MAP_BEEP_TONE_CFG	i2c_audio.h	27;"	d
+CODEC_MAP_BEEP_VOL_OFFTIME	i2c_audio.h	26;"	d
+CODEC_MAP_CHARGE_PUMP_FREQ	i2c_audio.h	43;"	d
+CODEC_MAP_CHIP_ID	i2c_audio.h	8;"	d
+CODEC_MAP_CH_MIX_SWAP	i2c_audio.h	35;"	d
+CODEC_MAP_CLK_CTRL	i2c_audio.h	11;"	d
+CODEC_MAP_HP_A_VOL	i2c_audio.h	31;"	d
+CODEC_MAP_HP_B_VOL	i2c_audio.h	32;"	d
+CODEC_MAP_IF_CTRL1	i2c_audio.h	12;"	d
+CODEC_MAP_IF_CTRL2	i2c_audio.h	13;"	d
+CODEC_MAP_LIMIT_ATTACK	i2c_audio.h	38;"	d
+CODEC_MAP_LIMIT_CTRL1	i2c_audio.h	36;"	d
+CODEC_MAP_LIMIT_CTRL2	i2c_audio.h	37;"	d
+CODEC_MAP_MASTER_A_VOL	i2c_audio.h	29;"	d
+CODEC_MAP_MASTER_B_VOL	i2c_audio.h	30;"	d
+CODEC_MAP_MISC_CTRL	i2c_audio.h	19;"	d
+CODEC_MAP_OVFL_CLK_STATUS	i2c_audio.h	39;"	d
+CODEC_MAP_PASSTHROUGH_A_SELECT	i2c_audio.h	14;"	d
+CODEC_MAP_PASSTHROUGH_A_VOL	i2c_audio.h	21;"	d
+CODEC_MAP_PASSTHROUGH_B_SELECT	i2c_audio.h	15;"	d
+CODEC_MAP_PASSTHROUGH_B_VOL	i2c_audio.h	22;"	d
+CODEC_MAP_PASSTHROUGH_GANG_CTRL	i2c_audio.h	17;"	d
+CODEC_MAP_PCMA_VOL	i2c_audio.h	23;"	d
+CODEC_MAP_PCMB_VOL	i2c_audio.h	24;"	d
+CODEC_MAP_PLAYBACK_CTRL1	i2c_audio.h	18;"	d
+CODEC_MAP_PLAYBACK_CTRL2	i2c_audio.h	20;"	d
+CODEC_MAP_PWR_CTRL1	i2c_audio.h	9;"	d
+CODEC_MAP_PWR_CTRL2	i2c_audio.h	10;"	d
+CODEC_MAP_SPEAK_A_VOL	i2c_audio.h	33;"	d
+CODEC_MAP_SPEAK_B_VOL	i2c_audio.h	34;"	d
+CODEC_MAP_SPEAK_STATUS	i2c_audio.h	42;"	d
+CODEC_MAP_TONE_CTRL	i2c_audio.h	28;"	d
+CODEC_MAP_VP_BATT_LEVEL	i2c_audio.h	41;"	d
+CS42L22_I2C_ADDRESS	OLD/i2c_audio.c	12;"	d	file:
+CS42L22_I2C_ADDRESS	i2c_audio.c	13;"	d	file:
+DEVICE	Makefile	/^DEVICE=STM32F407VG$/;"	m
+DISCOVERYF4_WIRING_H	discoveryf4_wiring.h	22;"	d
+F4LEDS	discoveryf4_wiring.h	124;"	d
+FREQ_FROM_APB1	OLD/i2c_audio.c	15;"	d	file:
+FREQ_FROM_APB1	i2c_audio.c	16;"	d	file:
+GPIO_AF_DUMMY	discoveryf4_wiring.h	41;"	d
+GPIO_AF_EVENT	discoveryf4_wiring.h	42;"	d
+GPIO_CLOCKS	discoveryf4_wiring.h	69;"	d
+GREEN_0W_LED	discoveryf4_wiring.h	115;"	d
+GREEN_0W_LED_TIM1CH2	discoveryf4_wiring.h	118;"	d
+I2SCONFIG_VAL	i2s_audio.c	40;"	d	file:
+I2SPR_DIVVAL	i2s_audio.c	36;"	d	file:
+I2SPR_VAL	i2s_audio.c	37;"	d	file:
+I2S_AUDIO	i2s_audio.h	21;"	d
+I2S_AUDIO_H	i2c_audio.h	2;"	d
+MASK_F4LEDS	discoveryf4_wiring.h	127;"	d
+OPENCM3_DIR	Makefile	/^OPENCM3_DIR     = ..\/libopencm3$/;"	m
+OPENOCD_BOARD_DIR	Makefile	/^OPENOCD_BOARD_DIR=\/usr\/share\/openocd\/scripts\/board\/$/;"	m
+OPENOCD_PROC_FILE	Makefile	/^OPENOCD_PROC_FILE=FLASH_DEBUG\/stm32f4-openocd.cfg$/;"	m
+ORANGE_1N_LED	discoveryf4_wiring.h	120;"	d
+P1_DRIVE	cold_startup.h	/^typedef enum {P2_DRIVE=1, P1_DRIVE=0} drive_t;$/;"	e	enum:__anon2
+P2_DRIVE	cold_startup.h	/^typedef enum {P2_DRIVE=1, P1_DRIVE=0} drive_t;$/;"	e	enum:__anon2
+PLLI2S_NVAL	i2s_audio.c	32;"	d	file:
+PLLI2S_RVAL	i2s_audio.c	33;"	d	file:
+PLLI2S_VAL	i2s_audio.c	34;"	d	file:
+RED_2E_LED	discoveryf4_wiring.h	121;"	d
+SHIFT_F4LEDS	discoveryf4_wiring.h	128;"	d
+SYSTICK_H	systick.h	2;"	d
+_COLDSTART_H	cold_startup.h	21;"	d
+afnum	discoveryf4_wiring.h	/^  uint8_t afnum;     $/;"	m	struct:__anon1
+clear_addr_bit	i2c_audio.c	/^void clear_addr_bit () {$/;"	f
+codec_ctrl_init	i2c_audio.c	/^void codec_ctrl_init()$/;"	f
+coldstart	cold_startup.c	/^void coldstart() {$/;"	f
+configure_BP_USER	discoveryf4_wiring.h	/^static inline void configure_BP_USER() {$/;"	f
+configure_I2C_AUDIO_PINS	discoveryf4_wiring.h	/^static inline void configure_I2C_AUDIO_PINS () {$/;"	f
+configure_I2S_AUDIO_PINS	discoveryf4_wiring.h	/^static inline void configure_I2S_AUDIO_PINS () {$/;"	f
+configure_f4_leds	discoveryf4_wiring.h	/^configure_f4_leds () {$/;"	f
+configure_i2c_audio	OLD/i2c_audio.c	/^void configure_i2c_audio (void) {$/;"	f
+configure_i2c_audio	i2c_audio.c	/^void configure_i2c_audio (void) {$/;"	f
+configure_pin	discoveryf4_wiring.h	/^configure_pin(portpin_t p) { $/;"	f
+do_send_cs	i2c_audio.c	/^void do_send_cs (uint8_t regnum, bool sendval, uint8_t regval) {$/;"	f
+drive_t	cold_startup.h	/^typedef enum {P2_DRIVE=1, P1_DRIVE=0} drive_t;$/;"	t	typeref:enum:__anon2
+exti0_setup	firmware.c	/^static void exti0_setup () {$/;"	f	file:
+i2c_set_speed	i2c_audio.c	/^void i2c_set_speed(uint32_t i2c, enum i2c_speeds speed, uint32_t clock_megahz)$/;"	f
+i2c_speed_fm_400k	i2c_audio.c	/^         i2c_speed_fm_400k,$/;"	e	enum:i2c_speeds	file:
+i2c_speed_fmp_1m	i2c_audio.c	/^         i2c_speed_fmp_1m,$/;"	e	enum:i2c_speeds	file:
+i2c_speed_sm_100k	i2c_audio.c	/^         i2c_speed_sm_100k,$/;"	e	enum:i2c_speeds	file:
+i2c_speed_unknown	i2c_audio.c	/^         i2c_speed_unknown$/;"	e	enum:i2c_speeds	file:
+i2c_speeds	i2c_audio.c	/^ enum i2c_speeds {$/;"	g	file:
+i2s_init	i2s_audio.c	/^void i2s_init () {$/;"	f
+initFilter	firmware.c	/^void initFilter(fir_8* theFilter)$/;"	f
+lu	firmware.c	/^uint8_t lu;$/;"	v
+main	firmware.c	/^int main (void) {$/;"	f
+mode	discoveryf4_wiring.h	/^  uint8_t mode;$/;"	m	struct:__anon1
+pin	discoveryf4_wiring.h	/^  uint16_t pin;$/;"	m	struct:__anon1
+plus_plus_handler	firmware.c	/^void plus_plus_handler() {$/;"	f
+port	discoveryf4_wiring.h	/^  uint32_t port;$/;"	m	struct:__anon1
+portpin_t	discoveryf4_wiring.h	/^} portpin_t;$/;"	t	typeref:struct:__anon1
+ptr	i2s_audio.c	/^volatile uint32_t *ptr;$/;"	v
+pullup	discoveryf4_wiring.h	/^  uint8_t pullup;$/;"	m	struct:__anon1
+read_BP_USER	discoveryf4_wiring.h	/^static inline int16_t read_BP_USER() {$/;"	f
+read_cs	i2c_audio.c	/^int8_t read_cs (uint8_t regnum) {$/;"	f
+receive_map_seq	OLD/i2c_audio.c	/^void receive_map_seq(uint8_t map, uint8_t length, uint8_t seq[length]) {$/;"	f
+send_address	i2c_audio.c	/^void send_address (bool read_writebar) {$/;"	f
+send_cs	i2c_audio.c	/^void send_cs (uint8_t regnum, uint8_t regval) {$/;"	f
+send_data	i2c_audio.c	/^void send_data (uint8_t data) {$/;"	f
+send_map_seq	OLD/i2c_audio.c	/^void send_map_seq(uint8_t map, uint8_t length, uint8_t seq[length]) {$/;"	f
+send_start	i2c_audio.c	/^void send_start () {$/;"	f
+send_stop	i2c_audio.c	/^void send_stop () {$/;"	f
+setup_clocks	discoveryf4_wiring.h	/^static inline void setup_clocks () {$/;"	f
+sys_tick_handler	firmware.c	/^void sys_tick_handler () {$/;"	f
+syscount	firmware.c	/^uint16_t syscount = 0;$/;"	v
+sysms	firmware.c	/^uint32_t sysms = 0;$/;"	v
+systick_setup	firmware.c	/^static void systick_setup(void)$/;"	f	file:
+tab	firmware.c	/^uint8_t tab[256];$/;"	v
+timer_start	cold_startup.h	/^static inline void timer_start() { timer_enable_counter  (TIM3); } \/\/ CR1 Counter Enable bit = 1 $/;"	f
+timer_stop	cold_startup.h	/^static inline void timer_stop()  { timer_disable_counter (TIM3); } \/\/ CR1 Counter Enable bit = 0 $/;"	f
+updateFilter	firmware.c	/^float updateFilter(fir_8* filt, float val)$/;"	f
+v2	i2s_audio.c	/^uint32_t v2;$/;"	v
+val	firmware.c	/^uint8_t val = 0x0;$/;"	v
+wait_address_sent	i2c_audio.c	/^void wait_address_sent () {$/;"	f
+wait_byte_received	i2c_audio.c	/^void wait_byte_received () {$/;"	f
+wait_byte_sent	i2c_audio.c	/^void wait_byte_sent () {$/;"	f
+wait_not_busy	i2c_audio.c	/^void wait_not_busy () {$/;"	f
+wait_ready_to_address	i2c_audio.c	/^void wait_ready_to_address () {$/;"	f
+write_f4_leds	discoveryf4_wiring.h	/^write_f4_leds (uint8_t value) {$/;"	f
+write_pin	discoveryf4_wiring.h	/^write_pin(portpin_t p, bool value) {$/;"	f
+write_pins	discoveryf4_wiring.h	/^write_pins(portpin_t p, uint16_t value) {$/;"	f

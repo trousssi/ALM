@@ -1,0 +1,267 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ANALOG_IN11_P1A	shield_discoveryf4_wiring.h	247;"	d
+ANALOG_IN12_P2A	shield_discoveryf4_wiring.h	248;"	d
+ANALOG_IN14_P2B	shield_discoveryf4_wiring.h	249;"	d
+ANALOG_IN15_P1B	shield_discoveryf4_wiring.h	250;"	d
+ANALOG_IN8	shield_discoveryf4_wiring.h	244;"	d
+ANALOG_IN9	shield_discoveryf4_wiring.h	245;"	d
+APB1_CLOCKS	shield_discoveryf4_wiring.h	55;"	d
+BINARY	Makefile	/^BINARY = firmware_f407$/;"	m
+BLUE_3S_LED	shield_discoveryf4_wiring.h	79;"	d
+CC	Makefile	/^CC = arm-none-eabi-gcc $/;"	m
+DEFAULT_CONTROL_BUFFER_SIZE	OLD/orig_usb_configuration.c	26;"	d	file:
+DEFAULT_CONTROL_BUFFER_SIZE	OLD/usb_configuration.c	28;"	d	file:
+DEFAULT_CONTROL_BUFFER_SIZE	usb_configuration.c	13;"	d	file:
+DEVICE	Makefile	/^DEVICE=STM32F407VG$/;"	m
+F4LEDS	shield_discoveryf4_wiring.h	81;"	d
+FEATURES_CONTROL_BUFFER_SIZE	OLD/orig_usb_configuration.c	30;"	d	file:
+FEATURES_CONTROL_BUFFER_SIZE	OLD/usb_configuration.c	32;"	d	file:
+FEATURES_CONTROL_BUFFER_SIZE	usb_configuration.c	17;"	d	file:
+FLASH_SECTOR_0	shield_discoveryf4_wiring.h	207;"	d
+FLASH_SECTOR_1	shield_discoveryf4_wiring.h	208;"	d
+FLASH_SECTOR_10	shield_discoveryf4_wiring.h	217;"	d
+FLASH_SECTOR_11	shield_discoveryf4_wiring.h	218;"	d
+FLASH_SECTOR_2	shield_discoveryf4_wiring.h	209;"	d
+FLASH_SECTOR_3	shield_discoveryf4_wiring.h	210;"	d
+FLASH_SECTOR_4	shield_discoveryf4_wiring.h	211;"	d
+FLASH_SECTOR_5	shield_discoveryf4_wiring.h	212;"	d
+FLASH_SECTOR_6	shield_discoveryf4_wiring.h	213;"	d
+FLASH_SECTOR_7	shield_discoveryf4_wiring.h	214;"	d
+FLASH_SECTOR_8	shield_discoveryf4_wiring.h	215;"	d
+FLASH_SECTOR_9	shield_discoveryf4_wiring.h	216;"	d
+GPIO_AF_DUMMY	shield_discoveryf4_wiring.h	21;"	d
+GPIO_CLOCKS	shield_discoveryf4_wiring.h	48;"	d
+GREEN_0W_LED	shield_discoveryf4_wiring.h	76;"	d
+I2C1_SCL	shield_discoveryf4_wiring.h	267;"	d
+I2C1_SDA	shield_discoveryf4_wiring.h	266;"	d
+IDENTITY_H	identity.h	2;"	d
+ID_INPUTS	shield_discoveryf4_wiring.h	167;"	d
+ID_PRODUCT_STRING	OLD/identity.h	17;"	d
+ID_PRODUCT_STRING	identity.h	17;"	d
+ID_VENDOR_STRING	OLD/identity.h	13;"	d
+ID_VENDOR_STRING	identity.h	13;"	d
+MASK_F4LEDS	shield_discoveryf4_wiring.h	84;"	d
+OPENCM3_DIR	Makefile	/^OPENCM3_DIR     = ..\/libopencm3$/;"	m
+OPENOCD_BOARD_DIR	Makefile	/^OPENOCD_BOARD_DIR=\/usr\/share\/openocd\/scripts\/board\/$/;"	m
+OPENOCD_PROC_FILE	Makefile	/^OPENOCD_PROC_FILE=FLASH_DEBUG\/stm32f4-openocd.cfg$/;"	m
+ORANGE_1N_LED	shield_discoveryf4_wiring.h	77;"	d
+P13_BOTTOM_TTY_0_EPIN	usb_configuration.c	25;"	d	file:
+P13_BOTTOM_TTY_0_EPOUT	usb_configuration.c	24;"	d	file:
+P1_CTS	shield_discoveryf4_wiring.h	108;"	d
+P1_DRIVE	cold_startup.h	/^typedef enum {P2_DRIVE=1, P1_DRIVE=0} drive_t;$/;"	e	enum:__anon1
+P1_RTS	shield_discoveryf4_wiring.h	109;"	d
+P1_RX	shield_discoveryf4_wiring.h	111;"	d
+P1_SHIELD_LED	shield_discoveryf4_wiring.h	104;"	d
+P1_SHIELD_PWR	shield_discoveryf4_wiring.h	106;"	d
+P1_SHIELD_RST	shield_discoveryf4_wiring.h	105;"	d
+P1_TX	shield_discoveryf4_wiring.h	110;"	d
+P24_TOP_TTY_1_EPIN	usb_configuration.c	28;"	d	file:
+P24_TOP_TTY_1_EPOUT	usb_configuration.c	27;"	d	file:
+P2_CTS	shield_discoveryf4_wiring.h	119;"	d
+P2_DRIVE	cold_startup.h	/^typedef enum {P2_DRIVE=1, P1_DRIVE=0} drive_t;$/;"	e	enum:__anon1
+P2_RTS	shield_discoveryf4_wiring.h	120;"	d
+P2_RX	shield_discoveryf4_wiring.h	122;"	d
+P2_SHIELD_LED	shield_discoveryf4_wiring.h	115;"	d
+P2_SHIELD_PWR	shield_discoveryf4_wiring.h	117;"	d
+P2_SHIELD_RST	shield_discoveryf4_wiring.h	116;"	d
+P2_TX	shield_discoveryf4_wiring.h	121;"	d
+PRODUCT_ID	OLD/identity.h	9;"	d
+PRODUCT_ID	identity.h	9;"	d
+PULSE_IN	shield_discoveryf4_wiring.h	156;"	d
+PULSE_OUT	shield_discoveryf4_wiring.h	154;"	d
+PULSE_OUT_TIM	shield_discoveryf4_wiring.h	155;"	d
+RED_2E_LED	shield_discoveryf4_wiring.h	78;"	d
+RS232_H	rs232.h	2;"	d
+SAMPLES_EPIN	OLD/orig_usb_configuration.c	43;"	d	file:
+SAMPLES_EPIN	OLD/usb_configuration.c	45;"	d	file:
+SAMPLES_EPIN	usb_configuration.c	30;"	d	file:
+SERIALNO_MAX_SIZE	OLD/orig_usb_configuration.c	34;"	d	file:
+SERIALNO_MAX_SIZE	OLD/usb_configuration.c	36;"	d	file:
+SERIALNO_MAX_SIZE	usb_configuration.c	21;"	d	file:
+SERIAL_NO_PREFIX	OLD/identity.h	22;"	d
+SERIAL_NO_PREFIX	identity.h	22;"	d
+SHIELD_DISCOVERYF4_WIRING_H	shield_discoveryf4_wiring.h	2;"	d
+SHIFT_F4LEDS	shield_discoveryf4_wiring.h	85;"	d
+TRIGGER_IN	shield_discoveryf4_wiring.h	151;"	d
+TRIGGER_OUT	shield_discoveryf4_wiring.h	150;"	d
+TTY_BOTTOM_1_EPIN	OLD/orig_usb_configuration.c	41;"	d	file:
+TTY_BOTTOM_1_EPIN	OLD/usb_configuration.c	43;"	d	file:
+TTY_BOTTOM_1_EPOUT	OLD/orig_usb_configuration.c	40;"	d	file:
+TTY_BOTTOM_1_EPOUT	OLD/usb_configuration.c	42;"	d	file:
+TTY_TOP_0_EPIN	OLD/orig_usb_configuration.c	38;"	d	file:
+TTY_TOP_0_EPIN	OLD/usb_configuration.c	40;"	d	file:
+TTY_TOP_0_EPOUT	OLD/orig_usb_configuration.c	37;"	d	file:
+TTY_TOP_0_EPOUT	OLD/usb_configuration.c	39;"	d	file:
+USBFS	shield_discoveryf4_wiring.h	281;"	d
+USBFS_DM	shield_discoveryf4_wiring.h	277;"	d
+USBFS_DP	shield_discoveryf4_wiring.h	278;"	d
+USBFS_VBUS	shield_discoveryf4_wiring.h	279;"	d
+USBHS	shield_discoveryf4_wiring.h	288;"	d
+USBHS_DM	shield_discoveryf4_wiring.h	284;"	d
+USBHS_DP	shield_discoveryf4_wiring.h	285;"	d
+USBHS_VBUS	shield_discoveryf4_wiring.h	286;"	d
+USB_STRINGS_SIZE	OLD/orig_usb_configuration.c	229;"	d	file:
+USB_STRINGS_SIZE	OLD/usb_configuration.c	231;"	d	file:
+USB_STRINGS_SIZE	usb_configuration.c	216;"	d	file:
+VENDOR_ID	OLD/identity.h	5;"	d
+VENDOR_ID	identity.h	5;"	d
+_COLDSTART_H	cold_startup.h	2;"	d
+_IDENTITY_H_	OLD/identity.h	2;"	d
+_USB_CONFIGURATION_H	OLD/usb_configuration.h	2;"	d
+_USB_CONFIGURATION_H	usb_configuration.h	2;"	d
+address	shield_discoveryf4_wiring.h	/^  uint32_t address;    \/\/ flash address$/;"	m	struct:__anon3
+afnum	shield_discoveryf4_wiring.h	/^  uint8_t afnum;     $/;"	m	struct:__anon2
+buffer	OLD/orig_usb_configuration.c	/^char buffer[64];$/;"	v
+buffer	OLD/usb_configuration.c	/^char buffer[64];$/;"	v
+buffer	usb_configuration.c	/^char buffer[64];$/;"	v
+coldstart	cold_startup.c	/^void coldstart() {$/;"	f
+config	OLD/orig_usb_configuration.c	/^static const struct usb_config_descriptor config = {$/;"	v	typeref:struct:usb_config_descriptor	file:
+config	OLD/usb_configuration.c	/^static const struct usb_config_descriptor config = {$/;"	v	typeref:struct:usb_config_descriptor	file:
+config	usb_configuration.c	/^static const struct usb_config_descriptor config = {$/;"	v	typeref:struct:usb_config_descriptor	file:
+configure_analog	shield_discoveryf4_wiring.h	/^configure_analog () {$/;"	f
+configure_eeprom	shield_discoveryf4_wiring.h	/^configure_eeprom () {$/;"	f
+configure_f4_leds	shield_discoveryf4_wiring.h	/^configure_f4_leds () {$/;"	f
+configure_p1_pins	shield_discoveryf4_wiring.h	/^configure_p1_pins () {$/;"	f
+configure_p2_pins	shield_discoveryf4_wiring.h	/^configure_p2_pins () {$/;"	f
+configure_pin	shield_discoveryf4_wiring.h	/^configure_pin(portpin_t p) { $/;"	f
+configure_pin_usbfs	shield_discoveryf4_wiring.h	/^configure_pin_usbfs () {configure_pin(USBFS);}$/;"	f
+configure_pin_usbhs	shield_discoveryf4_wiring.h	/^configure_pin_usbhs () {configure_pin(USBHS);}$/;"	f
+configure_trigger_pulse	shield_discoveryf4_wiring.h	/^configure_trigger_pulse () {$/;"	f
+ctrlreq_callback	usb_configuration.c	/^int ctrlreq_callback (usbd_device *usbd_dev,$/;"	f
+default_control_buffer	OLD/orig_usb_configuration.c	/^uint8_t default_control_buffer [DEFAULT_CONTROL_BUFFER_SIZE] __attribute__((aligned  (16)));$/;"	v
+default_control_buffer	OLD/usb_configuration.c	/^uint8_t default_control_buffer [DEFAULT_CONTROL_BUFFER_SIZE] __attribute__((aligned  (16)));$/;"	v
+default_control_buffer	usb_configuration.c	/^uint8_t default_control_buffer [DEFAULT_CONTROL_BUFFER_SIZE] __attribute__((aligned  (16)));$/;"	v
+dev	OLD/orig_usb_configuration.c	/^static const struct usb_device_descriptor dev = {$/;"	v	typeref:struct:usb_device_descriptor	file:
+dev	OLD/usb_configuration.c	/^static const struct usb_device_descriptor dev = {$/;"	v	typeref:struct:usb_device_descriptor	file:
+dev	usb_configuration.c	/^static const struct usb_device_descriptor dev = {$/;"	v	typeref:struct:usb_device_descriptor	file:
+drive_t	cold_startup.h	/^typedef enum {P2_DRIVE=1, P1_DRIVE=0} drive_t;$/;"	t	typeref:enum:__anon1
+features_bottom_1_iface	OLD/orig_usb_configuration.c	/^static const struct usb_interface_descriptor features_bottom_1_iface = {$/;"	v	typeref:struct:usb_interface_descriptor	file:
+features_bottom_1_iface	OLD/orig_usb_configuration.c	/^static const struct usb_interface_descriptor features_bottom_1_iface;$/;"	v	typeref:struct:usb_interface_descriptor	file:
+features_bottom_1_iface	OLD/usb_configuration.c	/^static const struct usb_interface_descriptor features_bottom_1_iface = {$/;"	v	typeref:struct:usb_interface_descriptor	file:
+features_bottom_1_iface	OLD/usb_configuration.c	/^static const struct usb_interface_descriptor features_bottom_1_iface;$/;"	v	typeref:struct:usb_interface_descriptor	file:
+features_control_buffer	OLD/orig_usb_configuration.c	/^uint8_t features_control_buffer [FEATURES_CONTROL_BUFFER_SIZE] __attribute__((aligned  (16)));$/;"	v
+features_control_buffer	OLD/usb_configuration.c	/^uint8_t features_control_buffer [FEATURES_CONTROL_BUFFER_SIZE] __attribute__((aligned  (16)));$/;"	v
+features_control_buffer	usb_configuration.c	/^uint8_t features_control_buffer [FEATURES_CONTROL_BUFFER_SIZE] __attribute__((aligned  (16)));$/;"	v
+features_top_0_iface	OLD/orig_usb_configuration.c	/^static const struct usb_interface_descriptor features_top_0_iface = {$/;"	v	typeref:struct:usb_interface_descriptor	file:
+features_top_0_iface	OLD/orig_usb_configuration.c	/^static const struct usb_interface_descriptor features_top_0_iface;$/;"	v	typeref:struct:usb_interface_descriptor	file:
+features_top_0_iface	OLD/usb_configuration.c	/^static const struct usb_interface_descriptor features_top_0_iface = {$/;"	v	typeref:struct:usb_interface_descriptor	file:
+features_top_0_iface	OLD/usb_configuration.c	/^static const struct usb_interface_descriptor features_top_0_iface;$/;"	v	typeref:struct:usb_interface_descriptor	file:
+flash_sector_t	shield_discoveryf4_wiring.h	/^} flash_sector_t;$/;"	t	typeref:struct:__anon3
+flash_tab	shield_discoveryf4_wiring.h	/^flash_tab(const flash_sector_t sector, $/;"	f
+flash_usb_serial	shield_discoveryf4_wiring.h	/^flash_usb_serial () {$/;"	f
+ifaces	OLD/orig_usb_configuration.c	/^static const struct usb_interface ifaces[] = {$/;"	v	typeref:struct:usb_interface	file:
+ifaces	OLD/orig_usb_configuration.c	/^static const struct usb_interface ifaces[];$/;"	v	typeref:struct:usb_interface	file:
+ifaces	OLD/usb_configuration.c	/^static const struct usb_interface ifaces[] = {$/;"	v	typeref:struct:usb_interface	file:
+ifaces	OLD/usb_configuration.c	/^static const struct usb_interface ifaces[];$/;"	v	typeref:struct:usb_interface	file:
+ifaces	usb_configuration.c	/^static const struct usb_interface ifaces[] = {$/;"	v	typeref:struct:usb_interface	file:
+ifaces	usb_configuration.c	/^static const struct usb_interface ifaces[];$/;"	v	typeref:struct:usb_interface	file:
+input_id	shield_discoveryf4_wiring.h	/^uint16_t input_id () {$/;"	f
+intin_callback	OLD/orig_usb_configuration.c	/^void intin_callback (usbd_device *usbd_dev,uint8_t ep) {$/;"	f
+intin_callback	OLD/usb_configuration.c	/^void intin_callback (usbd_device *usbd_dev,uint8_t ep) {$/;"	f
+intin_callback	usb_configuration.c	/^void intin_callback (usbd_device *usbd_dev,uint8_t ep) {$/;"	f
+length	OLD/orig_usb_configuration.c	/^int length;$/;"	v
+length	OLD/usb_configuration.c	/^int length;$/;"	v
+length	usb_configuration.c	/^int length;$/;"	v
+main	OLD/shield_f407_firmware.c	/^int main (void) {$/;"	f
+main	firmware_f407.c	/^int main (void) {$/;"	f
+mode	shield_discoveryf4_wiring.h	/^  uint8_t mode;$/;"	m	struct:__anon2
+number	shield_discoveryf4_wiring.h	/^  uint32_t number;     \/\/ flash sector number$/;"	m	struct:__anon3
+p13_top_features_0_iface	usb_configuration.c	/^static const struct usb_interface_descriptor p13_top_features_0_iface = {$/;"	v	typeref:struct:usb_interface_descriptor	file:
+p13_top_features_0_iface	usb_configuration.c	/^static const struct usb_interface_descriptor p13_top_features_0_iface;$/;"	v	typeref:struct:usb_interface_descriptor	file:
+p13_top_tty_0_endp	usb_configuration.c	/^static const struct usb_endpoint_descriptor p13_top_tty_0_endp[] = {{$/;"	v	typeref:struct:usb_endpoint_descriptor	file:
+p13_top_tty_0_endp	usb_configuration.c	/^static const struct usb_endpoint_descriptor p13_top_tty_0_endp[];$/;"	v	typeref:struct:usb_endpoint_descriptor	file:
+p13_top_tty_0_iface	usb_configuration.c	/^static const struct usb_interface_descriptor p13_top_tty_0_iface = {$/;"	v	typeref:struct:usb_interface_descriptor	file:
+p13_top_tty_0_iface	usb_configuration.c	/^static const struct usb_interface_descriptor p13_top_tty_0_iface;$/;"	v	typeref:struct:usb_interface_descriptor	file:
+p24_bottom_features_1_iface	usb_configuration.c	/^static const struct usb_interface_descriptor p24_bottom_features_1_iface = {$/;"	v	typeref:struct:usb_interface_descriptor	file:
+p24_bottom_features_1_iface	usb_configuration.c	/^static const struct usb_interface_descriptor p24_bottom_features_1_iface;$/;"	v	typeref:struct:usb_interface_descriptor	file:
+p24_bottom_tty_1_endp	usb_configuration.c	/^static const struct usb_endpoint_descriptor p24_bottom_tty_1_endp[] = {{$/;"	v	typeref:struct:usb_endpoint_descriptor	file:
+p24_bottom_tty_1_endp	usb_configuration.c	/^static const struct usb_endpoint_descriptor p24_bottom_tty_1_endp[];$/;"	v	typeref:struct:usb_endpoint_descriptor	file:
+p24_bottom_tty_1_iface	usb_configuration.c	/^static const struct usb_interface_descriptor p24_bottom_tty_1_iface = {$/;"	v	typeref:struct:usb_interface_descriptor	file:
+p24_bottom_tty_1_iface	usb_configuration.c	/^static const struct usb_interface_descriptor p24_bottom_tty_1_iface;$/;"	v	typeref:struct:usb_interface_descriptor	file:
+pin	shield_discoveryf4_wiring.h	/^  uint16_t pin;$/;"	m	struct:__anon2
+plusplus	cold_startup.c	/^void plusplus () {$/;"	f
+port	shield_discoveryf4_wiring.h	/^  uint32_t port;$/;"	m	struct:__anon2
+portpin_t	shield_discoveryf4_wiring.h	/^} portpin_t;$/;"	t	typeref:struct:__anon2
+pullup	shield_discoveryf4_wiring.h	/^  uint8_t pullup;$/;"	m	struct:__anon2
+reset_usb_fs	cold_startup.c	/^void reset_usb_fs (void)$/;"	f
+reset_usb_hs	cold_startup.c	/^void reset_usb_hs (void)$/;"	f
+rs232_init	rs232.c	/^void rs232_init (bool line) {$/;"	f
+rs232_reset	rs232.c	/^void rs232_reset (bool line) {$/;"	f
+samples_endp	OLD/orig_usb_configuration.c	/^static const struct usb_endpoint_descriptor samples_endp = {$/;"	v	typeref:struct:usb_endpoint_descriptor	file:
+samples_endp	OLD/orig_usb_configuration.c	/^static const struct usb_endpoint_descriptor samples_endp;$/;"	v	typeref:struct:usb_endpoint_descriptor	file:
+samples_endp	OLD/usb_configuration.c	/^static const struct usb_endpoint_descriptor samples_endp = {$/;"	v	typeref:struct:usb_endpoint_descriptor	file:
+samples_endp	OLD/usb_configuration.c	/^static const struct usb_endpoint_descriptor samples_endp;$/;"	v	typeref:struct:usb_endpoint_descriptor	file:
+samples_endp	usb_configuration.c	/^static const struct usb_endpoint_descriptor samples_endp = {$/;"	v	typeref:struct:usb_endpoint_descriptor	file:
+samples_endp	usb_configuration.c	/^static const struct usb_endpoint_descriptor samples_endp;$/;"	v	typeref:struct:usb_endpoint_descriptor	file:
+samples_iface	OLD/orig_usb_configuration.c	/^static const struct usb_interface_descriptor samples_iface = {$/;"	v	typeref:struct:usb_interface_descriptor	file:
+samples_iface	OLD/orig_usb_configuration.c	/^static const struct usb_interface_descriptor samples_iface;$/;"	v	typeref:struct:usb_interface_descriptor	file:
+samples_iface	OLD/usb_configuration.c	/^static const struct usb_interface_descriptor samples_iface = {$/;"	v	typeref:struct:usb_interface_descriptor	file:
+samples_iface	OLD/usb_configuration.c	/^static const struct usb_interface_descriptor samples_iface;$/;"	v	typeref:struct:usb_interface_descriptor	file:
+samples_iface	usb_configuration.c	/^static const struct usb_interface_descriptor samples_iface = {$/;"	v	typeref:struct:usb_interface_descriptor	file:
+samples_iface	usb_configuration.c	/^static const struct usb_interface_descriptor samples_iface;$/;"	v	typeref:struct:usb_interface_descriptor	file:
+serialno_buffer	OLD/usb_configuration.c	/^char serialno_buffer[SERIALNO_MAX_SIZE]=SERIAL_NO_PREFIX;$/;"	v
+serialno_buffer	usb_configuration.c	/^char serialno_buffer[SERIALNO_MAX_SIZE]=SERIAL_NO_PREFIX;$/;"	v
+set_timer_pulse	cold_startup.c	/^void set_timer_pulse(bool v) {$/;"	f
+set_trigger	cold_startup.c	/^void set_trigger(bool value) {$/;"	f
+setup_clocks	shield_discoveryf4_wiring.h	/^static inline void setup_clocks () {$/;"	f
+size	shield_discoveryf4_wiring.h	/^  uint32_t size;       \/\/ in Kbytes$/;"	m	struct:__anon3
+test_id	firmware_f407.c	/^void test_id () {$/;"	f
+test_lire_n	OLD/shield_f407_firmware.c	/^void test_lire_n () {$/;"	f
+test_pulse_trigger	OLD/shield_f407_firmware.c	/^void test_pulse_trigger () {$/;"	f
+test_pulse_trigger	firmware_f407.c	/^void test_pulse_trigger () {$/;"	f
+test_rs232	rs232.c	/^void test_rs232 () {$/;"	f
+test_rst_power	OLD/shield_f407_firmware.c	/^void test_rst_power () {$/;"	f
+test_rst_pwr	firmware_f407.c	/^void test_rst_pwr() {$/;"	f
+test_shield_leds	OLD/shield_f407_firmware.c	/^void test_shield_leds () {$/;"	f
+tim3_isr	OLD/shield_f407_firmware.c	/^void tim3_isr (void) {$/;"	f
+tim3_isr	firmware_f407.c	/^void tim3_isr (void) {$/;"	f
+timer_set_frequency	cold_startup.c	/^void timer_set_frequency(uint16_t prescaler, uint16_t period) {$/;"	f
+timer_setup	cold_startup.c	/^void timer_setup () {$/;"	f
+timer_start	cold_startup.h	/^static inline void timer_start() { timer_enable_counter  (TIM3); } \/\/ CR1 Counter Enable bit = 1 $/;"	f
+timer_stop	cold_startup.h	/^static inline void timer_stop()  { timer_disable_counter (TIM3); } \/\/ CR1 Counter Enable bit = 0 $/;"	f
+tty0_out_callback	OLD/orig_usb_configuration.c	/^void tty0_out_callback (usbd_device *usbd_dev,uint8_t ep) {$/;"	f
+tty0_out_callback	OLD/usb_configuration.c	/^void tty0_out_callback (usbd_device *usbd_dev,uint8_t ep) {$/;"	f
+tty0_out_callback	usb_configuration.c	/^void tty0_out_callback (usbd_device *usbd_dev,uint8_t ep) {$/;"	f
+tty_bottom_1_endp	OLD/orig_usb_configuration.c	/^static const struct usb_endpoint_descriptor tty_bottom_1_endp[] = {{$/;"	v	typeref:struct:usb_endpoint_descriptor	file:
+tty_bottom_1_endp	OLD/orig_usb_configuration.c	/^static const struct usb_endpoint_descriptor tty_bottom_1_endp[];$/;"	v	typeref:struct:usb_endpoint_descriptor	file:
+tty_bottom_1_endp	OLD/usb_configuration.c	/^static const struct usb_endpoint_descriptor tty_bottom_1_endp[] = {{$/;"	v	typeref:struct:usb_endpoint_descriptor	file:
+tty_bottom_1_endp	OLD/usb_configuration.c	/^static const struct usb_endpoint_descriptor tty_bottom_1_endp[];$/;"	v	typeref:struct:usb_endpoint_descriptor	file:
+tty_bottom_1_iface	OLD/orig_usb_configuration.c	/^static const struct usb_interface_descriptor tty_bottom_1_iface = {$/;"	v	typeref:struct:usb_interface_descriptor	file:
+tty_bottom_1_iface	OLD/orig_usb_configuration.c	/^static const struct usb_interface_descriptor tty_bottom_1_iface;$/;"	v	typeref:struct:usb_interface_descriptor	file:
+tty_bottom_1_iface	OLD/usb_configuration.c	/^static const struct usb_interface_descriptor tty_bottom_1_iface = {$/;"	v	typeref:struct:usb_interface_descriptor	file:
+tty_bottom_1_iface	OLD/usb_configuration.c	/^static const struct usb_interface_descriptor tty_bottom_1_iface;$/;"	v	typeref:struct:usb_interface_descriptor	file:
+tty_top_0_endp	OLD/orig_usb_configuration.c	/^static const struct usb_endpoint_descriptor tty_top_0_endp[] = {{$/;"	v	typeref:struct:usb_endpoint_descriptor	file:
+tty_top_0_endp	OLD/orig_usb_configuration.c	/^static const struct usb_endpoint_descriptor tty_top_0_endp[];$/;"	v	typeref:struct:usb_endpoint_descriptor	file:
+tty_top_0_endp	OLD/usb_configuration.c	/^static const struct usb_endpoint_descriptor tty_top_0_endp[] = {{$/;"	v	typeref:struct:usb_endpoint_descriptor	file:
+tty_top_0_endp	OLD/usb_configuration.c	/^static const struct usb_endpoint_descriptor tty_top_0_endp[];$/;"	v	typeref:struct:usb_endpoint_descriptor	file:
+tty_top_0_iface	OLD/orig_usb_configuration.c	/^static const struct usb_interface_descriptor tty_top_0_iface = {$/;"	v	typeref:struct:usb_interface_descriptor	file:
+tty_top_0_iface	OLD/orig_usb_configuration.c	/^static const struct usb_interface_descriptor tty_top_0_iface;$/;"	v	typeref:struct:usb_interface_descriptor	file:
+tty_top_0_iface	OLD/usb_configuration.c	/^static const struct usb_interface_descriptor tty_top_0_iface = {$/;"	v	typeref:struct:usb_interface_descriptor	file:
+tty_top_0_iface	OLD/usb_configuration.c	/^static const struct usb_interface_descriptor tty_top_0_iface;$/;"	v	typeref:struct:usb_interface_descriptor	file:
+usb_init	OLD/orig_usb_configuration.c	/^void usb_init() {$/;"	f
+usb_init	OLD/usb_configuration.c	/^void usb_init() {$/;"	f
+usb_init	usb_configuration.c	/^void usb_init() {$/;"	f
+usb_reset_cb	OLD/orig_usb_configuration.c	/^void usb_reset_cb()$/;"	f
+usb_reset_cb	OLD/usb_configuration.c	/^void usb_reset_cb()$/;"	f
+usb_reset_cb	usb_configuration.c	/^void usb_reset_cb()$/;"	f
+usb_serial_sector	shield_discoveryf4_wiring.h	/^static const flash_sector_t usb_serial_sector = FLASH_SECTOR_10;$/;"	v
+usb_strings	OLD/orig_usb_configuration.c	/^static const char *usb_strings[] = {$/;"	v	file:
+usb_strings	OLD/orig_usb_configuration.c	/^static const char *usb_strings[];$/;"	v	file:
+usb_strings	OLD/usb_configuration.c	/^static const char *usb_strings[] = {$/;"	v	file:
+usb_strings	OLD/usb_configuration.c	/^static const char *usb_strings[];$/;"	v	file:
+usb_strings	usb_configuration.c	/^static const char *usb_strings[] = {$/;"	v	file:
+usb_strings	usb_configuration.c	/^static const char *usb_strings[];$/;"	v	file:
+usbd_dev	OLD/orig_usb_configuration.c	/^usbd_device *usbd_dev;$/;"	v
+usbd_dev	OLD/usb_configuration.c	/^usbd_device *usbd_dev;$/;"	v
+usbd_dev	usb_configuration.c	/^usbd_device *usbd_dev;$/;"	v
+usbdev_set_config	OLD/orig_usb_configuration.c	/^void usbdev_set_config(usbd_device *usbd_dev, uint16_t wValue)$/;"	f
+usbdev_set_config	OLD/usb_configuration.c	/^void usbdev_set_config(usbd_device *usbd_dev, uint16_t wValue)$/;"	f
+usbdev_set_config	usb_configuration.c	/^void usbdev_set_config(usbd_device *usbd_dev, uint16_t wValue)$/;"	f
+write_f4_leds	shield_discoveryf4_wiring.h	/^write_f4_leds (uint8_t value) {$/;"	f
+write_pin	shield_discoveryf4_wiring.h	/^write_pin(portpin_t p, bool value) {$/;"	f
+write_pins	shield_discoveryf4_wiring.h	/^write_pins(portpin_t p, uint16_t value) {$/;"	f
